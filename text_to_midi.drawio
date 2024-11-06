@@ -1,0 +1,32 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.4">
+  <diagram name="Page-1" id="iPpTvLfVcB2R0INIDrDR">
+    <mxGraphModel dx="1593" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_uyc_Ckr8j8jxNJ9885Q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_uyc_Ckr8j8jxNJ9885Q-1" target="_uyc_Ckr8j8jxNJ9885Q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_uyc_Ckr8j8jxNJ9885Q-1" value="&lt;div&gt;Discord client&lt;/div&gt;&lt;div&gt;- taking messages&lt;/div&gt;&lt;div&gt;- answering w midis&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_uyc_Ckr8j8jxNJ9885Q-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_uyc_Ckr8j8jxNJ9885Q-2" target="_uyc_Ckr8j8jxNJ9885Q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_uyc_Ckr8j8jxNJ9885Q-2" value="&lt;div&gt;Engine&lt;/div&gt;&lt;div&gt;- takes keywords&lt;/div&gt;&lt;div&gt;- spits json&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_uyc_Ckr8j8jxNJ9885Q-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_uyc_Ckr8j8jxNJ9885Q-3" target="_uyc_Ckr8j8jxNJ9885Q-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_uyc_Ckr8j8jxNJ9885Q-3" value="&lt;div&gt;Parser&lt;/div&gt;&lt;div&gt;- JSON to MIDI&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="150" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
